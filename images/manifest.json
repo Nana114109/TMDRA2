@@ -7,5 +7,87 @@
             "All images loaded in Nana114109/TMDRA2 project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://Nana114109.github.io/TMDRA2/images/Naghshe_Jahan_Square_Isfahan_modified2/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Naghshe_Jahan_Square_Isfahan_modified2"
+                ]
+            },
+            "height": 692,
+            "width": 1280,
+            "items": [
+                {
+                    "id": "https://Nana114109.github.io/TMDRA2/images/Naghshe_Jahan_Square_Isfahan_modified2/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Nana114109.github.io/TMDRA2/images/Naghshe_Jahan_Square_Isfahan_modified2/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Nana114109.github.io/TMDRA2/images/Naghshe_Jahan_Square_Isfahan_modified2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 40,
+                                                "height": 22
+                                            },
+                                            {
+                                                "width": 80,
+                                                "height": 44
+                                            },
+                                            {
+                                                "width": 160,
+                                                "height": 87
+                                            },
+                                            {
+                                                "width": 320,
+                                                "height": 173
+                                            },
+                                            {
+                                                "width": 640,
+                                                "height": 346
+                                            },
+                                            {
+                                                "width": 1280,
+                                                "height": 692
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1280,
+                                        "@id": "https://Nana114109.github.io/TMDRA2/images/Naghshe_Jahan_Square_Isfahan_modified2",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 692,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Nana114109.github.io/TMDRA2/images/Naghshe_Jahan_Square_Isfahan_modified2/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

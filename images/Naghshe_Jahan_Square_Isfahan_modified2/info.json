@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 40,
+    "height" : 22
+  }, {
+    "width" : 80,
+    "height" : 44
+  }, {
+    "width" : 160,
+    "height" : 87
+  }, {
+    "width" : 320,
+    "height" : 173
+  }, {
+    "width" : 640,
+    "height" : 346
+  }, {
+    "width" : 1280,
+    "height" : 692
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1280,
+  "@id" : "https://Nana114109.github.io/TMDRA2/images/Naghshe_Jahan_Square_Isfahan_modified2",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 692
+}
