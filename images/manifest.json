@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://Nana114109.github.io/TMDRA2/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in Nana114109/TMDRA2 project"
+        ]
+    },
+    "items": []
+}
