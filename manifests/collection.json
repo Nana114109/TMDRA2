@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Nana114109.github.io/TMDRA2/manifests/manifest2.json",
     "label" : "An Array of Art and Culture: A Collection of Diverse Magazines"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Nana114109.github.io/TMDRA2/manifests/manifest4.json",
+    "label" : "Modern Urban Intersection with Reflective Glass Building"
   } ]
 }
