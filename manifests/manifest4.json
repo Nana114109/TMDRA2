@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Nana114109.github.io/TMDRA2/manifests/manifest4.json",
+  "@type" : "sc:Manifest",
+  "label" : "Modern Urban Intersection with Reflective Glass Building",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "This image captures a bustling urban intersection dominated by a striking modern building with a reflective glass facade. The building's sleek design and geometric patterns create an impressive visual effect, reflecting the surrounding cityscape and sky. Prominent brand names like \"BOSS\" and \"BALENCIAGA\" are visible on the ground floor, indicating high-end retail stores. Pedestrians cross the street in front of the building, adding a sense of movement and life to the scene. The reflections on the glass surface add depth and complexity, while the clear blue sky and bright sunlight enhance the overall vibrancy. Traffic lights and signage are also visible, contributing to the urban atmosphere. This image beautifully encapsulates the blend of modern architecture, commercial activity, and everyday city life.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://5c03235b-2ace-4dd8-b03b-c693c89361a0",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://ec1bc072-3c91-4dd1-a753-0c91a213e59d",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 6048,
+      "width" : 4024,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5cd7f233-bff6-4ddd-807c-81ab5851a153",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://nana114109.github.io/TMDRA2/images/Photo4/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://nana114109.github.io/TMDRA2/images/Photo4",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 6048,
+          "width" : 4024
+        },
+        "on" : "http://ec1bc072-3c91-4dd1-a753-0c91a213e59d"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
