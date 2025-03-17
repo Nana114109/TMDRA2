@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Nana114109.github.io/TMDRA2/manifests/VibrantTulipDisplay.json",
+  "@type" : "sc:Manifest",
+  "label" : "Vibrant Tulip Display",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "This image showcases a vibrant and colorful display of tulips arranged in brown paper bags. The tulips are organized in neat rows, with each bag containing a different color—white, yellow, pink, red, and orange. The bright lighting enhances the vivid hues of the flowers, creating a cheerful and lively atmosphere. The background is slightly blurred, suggesting that this scene might be set in a flower market or a floral shop. The overall composition highlights the beauty and diversity of the tulips, making it an appealing visual for anyone who appreciates floral arrangements.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://3e9b03e0-845f-4dd2-bea0-9b9b3fbaf6bb",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://1330d008-e17e-4c84-bbf4-3304a5fa2ea2",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 7360,
+      "width" : 4912,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://be1f7729-7a9a-40a6-b876-769fbed9620a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://nana114109.github.io/TMDRA2/images/photo3/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://nana114109.github.io/TMDRA2/images/photo3",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 7360,
+          "width" : 4912
+        },
+        "on" : "http://1330d008-e17e-4c84-bbf4-3304a5fa2ea2"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
