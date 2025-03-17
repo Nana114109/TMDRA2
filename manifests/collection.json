@@ -17,5 +17,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Nana114109.github.io/TMDRA2/manifests/manifest4.json",
     "label" : "Modern Urban Intersection with Reflective Glass Building"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Nana114109.github.io/TMDRA2/manifests/VibrantTulipDisplay.json",
+    "label" : "Vibrant Tulip Display"
   } ]
 }
