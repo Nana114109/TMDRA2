@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Nana114109.github.io/TMDRA2/manifests/image",
+  "@type" : "sc:Manifest",
+  "label" : "Vibrant Neon-Lit Street Scene in Osaka, Japan",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "This image captures a bustling urban street scene at night, in Osaka, Japan, characterized by its vibrant neon signage, crowded pedestrian activity, and lively atmosphere. The area is filled with brightly lit billboards and storefronts, showcasing a mix of restaurants, shops, and entertainment venues. The signs are predominantly in Japanese, featuring bold colors and dynamic lighting that create a visually striking environment. The street is packed with people walking and shopping, reflecting the energetic and social nature of the location. The overall ambiance suggests a popular nightlife district known for its food, entertainment, and cultural vibrancy.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://f0e46f1b-80d2-4fca-b833-fe1e81c5c1b7",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://54abaeb2-476f-458e-983b-ce76867a7978",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 3024,
+      "width" : 4032,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://226e6f3c-17bc-4ed5-93e4-1c9d8914b3ad",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://nana114109.github.io/TMDRA2/images/street/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://nana114109.github.io/TMDRA2/images/street",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3024,
+          "width" : 4032
+        },
+        "on" : "http://54abaeb2-476f-458e-983b-ce76867a7978"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
