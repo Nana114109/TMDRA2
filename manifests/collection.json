@@ -21,5 +21,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Nana114109.github.io/TMDRA2/manifests/VibrantTulipDisplay.json",
     "label" : "Vibrant Tulip Display"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Nana114109.github.io/TMDRA2/manifests/Bustling.urban.street.in.Osaka.json",
+    "label" : "Vibrant Neon-Lit Street Scene in Osaka, Japan"
   } ]
 }
