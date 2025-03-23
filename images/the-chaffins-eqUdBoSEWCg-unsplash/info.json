@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 210,
+    "height" : 140
+  }, {
+    "width" : 420,
+    "height" : 280
+  }, {
+    "width" : 840,
+    "height" : 560
+  }, {
+    "width" : 1679,
+    "height" : 1119
+  }, {
+    "width" : 3357,
+    "height" : 2238
+  }, {
+    "width" : 6713,
+    "height" : 4475
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 6713,
+  "@id" : "https://Nana114109.github.io/TMDRA2/images/the-chaffins-eqUdBoSEWCg-unsplash",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4475
+}
