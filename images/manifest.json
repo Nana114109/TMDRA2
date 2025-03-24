@@ -171,6 +171,87 @@
             ]
         },
         {
+            "id": "https://Nana114109.github.io/TMDRA2/images/1-8904dbd6/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "1-8904dbd6"
+                ]
+            },
+            "height": 1961,
+            "width": 2940,
+            "items": [
+                {
+                    "id": "https://Nana114109.github.io/TMDRA2/images/1-8904dbd6/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Nana114109.github.io/TMDRA2/images/1-8904dbd6/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Nana114109.github.io/TMDRA2/images/1-8904dbd6/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 92,
+                                                "height": 62
+                                            },
+                                            {
+                                                "width": 184,
+                                                "height": 123
+                                            },
+                                            {
+                                                "width": 368,
+                                                "height": 246
+                                            },
+                                            {
+                                                "width": 735,
+                                                "height": 491
+                                            },
+                                            {
+                                                "width": 1470,
+                                                "height": 981
+                                            },
+                                            {
+                                                "width": 2940,
+                                                "height": 1961
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2940,
+                                        "@id": "https://Nana114109.github.io/TMDRA2/images/1-8904dbd6",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1961,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Nana114109.github.io/TMDRA2/images/1-8904dbd6/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://Nana114109.github.io/TMDRA2/images/Photo4/canvas/",
             "type": "Canvas",
             "label": {
