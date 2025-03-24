@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Nana114109.github.io/TMDRA2/manifests/manifestGUN.json",
+  "@type" : "sc:Manifest",
+  "label" : "Gun Board",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "A board that has been used to hold different types of gun on it",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://168fc1e1-88e4-4d34-833e-0ef21b448f26",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://c209d69f-cba3-4b35-ae01-7be22dd4977c",
+      "@type" : "sc:Canvas",
+      "label" : "Gun board",
+      "height" : 1961,
+      "width" : 2940,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c203006b-a572-43bf-97ac-e86863d6d3f6",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://nana114109.github.io/TMDRA2/images/1-8904dbd6/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://nana114109.github.io/TMDRA2/images/1-8904dbd6",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1961,
+          "width" : 2940
+        },
+        "on" : "http://c209d69f-cba3-4b35-ae01-7be22dd4977c"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
