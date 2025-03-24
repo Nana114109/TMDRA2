@@ -49,5 +49,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Nana114109.github.io/TMDRA2/manifests/manifestGUN.json",
     "label" : "Gun Board"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Nana114109.github.io/TMDRA2/manifests/manifestSetup.json",
+    "label" : "Modern Home Office Setup"
   } ]
 }
