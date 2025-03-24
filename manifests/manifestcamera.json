@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Nana114109.github.io/TMDRA2/manifests/manifestcamera.json",
+  "@type" : "sc:Manifest",
+  "label" : "Photography Equipment and Accessories Setup",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "This image showcases a meticulously arranged collection of photography equipment and accessories, neatly organized on a dark wooden surface. The setup highlights a range of tools catering to both professional and casual photography needs, emphasizing versatility and organization.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://35409447-89ec-4586-9989-e15eea16a5c9",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://ed5ed9ee-76ea-4f7c-836b-7174b1dc6c54",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 4475,
+      "width" : 6713,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://cf54e695-a408-4b77-9f4c-d168ac18be18",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://nana114109.github.io/TMDRA2/images/the-chaffins-eqUdBoSEWCg-unsplash/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://nana114109.github.io/TMDRA2/images/the-chaffins-eqUdBoSEWCg-unsplash",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4475,
+          "width" : 6713
+        },
+        "on" : "http://ed5ed9ee-76ea-4f7c-836b-7174b1dc6c54"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
