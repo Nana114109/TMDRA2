@@ -53,5 +53,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Nana114109.github.io/TMDRA2/manifests/manifestSetup.json",
     "label" : "Modern Home Office Setup"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Nana114109.github.io/TMDRA2/manifests/manifestaccessories.json",
+    "label" : "Feminine Accessories and Fragrance"
   } ]
 }
