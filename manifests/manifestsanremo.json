@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Nana114109.github.io/TMDRA2/manifests/manifestsanremo.json",
+  "@type" : "sc:Manifest",
+  "label" : "Sanremo Racer espresso machine",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Sanremo Racer espresso machine",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://6eaf095f-d3d6-47e3-8cd1-f81e1819677c",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://c9b623d1-50bd-4cda-a19f-c36f1fba91ee",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 1281,
+      "width" : 1920,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://145c39c6-5527-457a-a070-ad2ad54c194d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://nana114109.github.io/TMDRA2/images/1-2a5789dd/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://nana114109.github.io/TMDRA2/images/1-2a5789dd",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1281,
+          "width" : 1920
+        },
+        "on" : "http://c9b623d1-50bd-4cda-a19f-c36f1fba91ee"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
