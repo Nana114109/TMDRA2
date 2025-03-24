@@ -33,5 +33,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Nana114109.github.io/TMDRA2/manifests/image",
     "label" : "Vibrant Neon-Lit Street Scene in Osaka, Japan"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Nana114109.github.io/TMDRA2/manifests/manifestcamera.json",
+    "label" : "Photography Equipment and Accessories Setup"
   } ]
 }
