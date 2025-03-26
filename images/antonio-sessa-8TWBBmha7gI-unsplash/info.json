@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 167,
+    "height" : 125
+  }, {
+    "width" : 334,
+    "height" : 250
+  }, {
+    "width" : 667,
+    "height" : 500
+  }, {
+    "width" : 1334,
+    "height" : 1000
+  }, {
+    "width" : 2667,
+    "height" : 2000
+  }, {
+    "width" : 5333,
+    "height" : 3999
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 5333,
+  "@id" : "https://Nana114109.github.io/TMDRA2/images/antonio-sessa-8TWBBmha7gI-unsplash",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3999
+}
