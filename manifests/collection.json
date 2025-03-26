@@ -57,5 +57,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Nana114109.github.io/TMDRA2/manifests/manifestaccessories.json",
     "label" : "Feminine Accessories and Fragrance"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Nana114109.github.io/TMDRA2/manifests/1.json",
+    "label" : "Historic European City Square with Renaissance/Baroque Architecture"
   } ]
 }
