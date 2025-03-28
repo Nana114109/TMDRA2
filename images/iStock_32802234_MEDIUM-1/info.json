@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 44,
+    "height" : 16
+  }, {
+    "width" : 88,
+    "height" : 31
+  }, {
+    "width" : 175,
+    "height" : 62
+  }, {
+    "width" : 350,
+    "height" : 124
+  }, {
+    "width" : 700,
+    "height" : 247
+  }, {
+    "width" : 1400,
+    "height" : 493
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1400,
+  "@id" : "https://Nana114109.github.io/TMDRA2/images/iStock_32802234_MEDIUM-1",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 493
+}
