@@ -61,5 +61,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Nana114109.github.io/TMDRA2/manifests/1.json",
     "label" : "Historic European City Square with Renaissance/Baroque Architecture"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Nana114109.github.io/TMDRA2/manifests/manifestdrinks.json",
+    "label" : "Gourmet Cocktail Collection: A Vibrant Display of Craft Cocktails"
   } ]
 }
