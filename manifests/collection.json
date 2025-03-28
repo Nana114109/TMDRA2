@@ -65,5 +65,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Nana114109.github.io/TMDRA2/manifests/manifestdrinks.json",
     "label" : "Gourmet Cocktail Collection: A Vibrant Display of Craft Cocktails"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Nana114109.github.io/TMDRA2/manifests/manifest.dogs.json",
+    "label" : "Diverse Group of Pedigree Dogs"
   } ]
 }
