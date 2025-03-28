@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Nana114109.github.io/TMDRA2/manifests/manifestdrinks.json",
+  "@type" : "sc:Manifest",
+  "label" : "Gourmet Cocktail Collection: A Vibrant Display of Craft Cocktails",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "This image features a vibrant display of five meticulously crafted cocktails, each served in uniquely styled glasses and adorned with fresh garnishes like fruit slices, herbs, and edible flowers. The drinks showcase a spectrum of colors—yellow, red, orange, and blue—indicating diverse flavors and ingredients. Warm lighting highlights the rich hues, while a dark background enhances their visual appeal. The reflective surface of the table adds sophistication, suggesting an upscale bar or lounge setting. This composition beautifully captures the artistry and elegance of modern mixology, perfect for promoting craft cocktails or high-end beverages.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://dbb5eb7e-bba8-4c8c-a426-c0ee7614f057",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://a64854a6-a374-4975-9746-02100fc98af6",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 2880,
+      "width" : 6656,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://eecc09fd-f45b-47c9-8f3a-2cbdf037442c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://nana114109.github.io/TMDRA2/images/vecteezy_alcohol-cocktails-in-a-row_27032505/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://nana114109.github.io/TMDRA2/images/vecteezy_alcohol-cocktails-in-a-row_27032505",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2880,
+          "width" : 6656
+        },
+        "on" : "http://a64854a6-a374-4975-9746-02100fc98af6"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
