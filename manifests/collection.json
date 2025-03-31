@@ -69,5 +69,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Nana114109.github.io/TMDRA2/manifests/manifest.dogs.json",
     "label" : "Diverse Group of Pedigree Dogs"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Nana114109.github.io/TMDRA2/manifests/Pasargad.json",
+    "label" : "Persepolis Ruins with Griffin Sculpture"
   } ]
 }
