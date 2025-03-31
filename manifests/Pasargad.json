@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Nana114109.github.io/TMDRA2/manifests/Pasargad.json",
+  "@type" : "sc:Manifest",
+  "label" : "Persepolis Ruins with Griffin Sculpture",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "This photograph captures a wide shot of the ancient ruins of Persepolis, set against a clear, pale blue sky. The most prominent feature is a large, sculpted griffin head in the foreground, facing left, its intricate details highlighted by the sunlight. Behind it, the sprawling ruins unfold, revealing a series of tall, slender columns standing amidst the remnants of stone structures. The site is dotted with small figures, likely tourists, giving a sense of scale to the vastness of the archaeological area. The landscape is arid, with dry, beige-colored earth and low walls framing the foreground, suggesting a historical site preserved in its natural, weathered state. The distant mountains provide a soft, hazy backdrop, emphasizing the isolation and historical significance of Persepolis.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://16ad583c-7e15-487f-980f-ba357d767bfd",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://15578934-9a9e-4ea2-80cf-9c6a6d28d477",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 400,
+      "width" : 600,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://44a9dd20-c5b8-408f-aa8e-fe99b92e8eac",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://nana114109.github.io/TMDRA2/images/pasargad/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://nana114109.github.io/TMDRA2/images/pasargad",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 400,
+          "width" : 600
+        },
+        "on" : "http://15578934-9a9e-4ea2-80cf-9c6a6d28d477"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
